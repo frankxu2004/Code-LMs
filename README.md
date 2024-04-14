@@ -1,5 +1,5 @@
 # Large Models of Source Code
-I occasionally train and publicly release large neural language models on programs, including [PolyCoder](https://arxiv.org/pdf/2202.13169.pdf). Here, I describe how to use these.
+Repository for Evaluating Large Language Models for Code. [PolyCoder](https://arxiv.org/pdf/2202.13169.pdf). Here, I describe how to use these.
 
 ## October 2022 - PolyCoder is available on Huggingface!
 Thanks to [@NinedayWang](https://github.com/NinedayWang), PolyCoder is available on the Huggingface Hub!
